@@ -43,4 +43,4 @@ while True:
     else:
         print('Invalid input ')
         
-        
+assert add(3,4)==7
